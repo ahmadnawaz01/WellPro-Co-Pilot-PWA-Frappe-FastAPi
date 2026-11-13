@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ahmadnawaz01/Well_Pro-Co-Pilot-PWA_React_frontend.git
+[submodule "frappe-backend"]
+	path = frappe-backend
+	url = https://github.com/ahmadnawaz01/Well-Pro-Co-Pilot-Frappe-Backend.git
+[submodule "fastapi-backend"]
+	path = fastapi-backend
+	url = https://github.com/ahmadnawaz01/Well-Pro-Co-Pilot-AI-Backend.git
